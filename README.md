@@ -1,1 +1,3 @@
-# -info2180-lab1
+# INFO2180 Lab 1
+
+This Lab 1 for Keneel Thomas
